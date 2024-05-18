@@ -1,0 +1,38 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Estilos específicos para la sección de coches */
+#coches .coche {
+    margin-bottom: 20px;
+}
+
+#coches .coche img {
+    width: 100%; /* Esto hace que la imagen se ajuste al tamaño del contenedor */
+    max-width: 300px; /* Ajusta el tamaño máximo de la imagen */
+    height: auto;
+    display: block;
+    margin: 0 auto 10px auto; /* Centrar la imagen horizontalmente y agregar espacio debajo */
+}
