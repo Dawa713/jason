@@ -1,0 +1,14 @@
+{
+  "propietarios": [
+    { "IDPropietario": 1, "Nombre": "Juan", "Apellido": "Perez", "Direccion": "Calle Falsa 123", "NumMovil": 123456789 },
+    { "IDPropietario": 2, "Nombre": "Ana", "Apellido": "Gomez", "Direccion": "Avenida Siempre Viva 456", "NumMovil": 987654321 },
+    { "IDPropietario": 3, "Nombre": "Carlos", "Apellido": "Lopez", "Direccion": "Boulevard de los Sueños 789", "NumMovil": 111222333 },
+    { "IDPropietario": 4, "Nombre": "María", "Apellido": "Garcia", "Direccion": "Plaza Mayor 101", "NumMovil": 444555666 },
+    { "IDPropietario": 5, "Nombre": "Luis", "Apellido": "Martinez", "Direccion": "Calle del Sol 202", "NumMovil": 777888999 },
+    { "IDPropietario": 6, "Nombre": "Laura", "Apellido": "Hernandez", "Direccion": "Avenida del Mar 303", "NumMovil": 121314151 },
+    { "IDPropietario": 7, "Nombre": "Miguel", "Apellido": "Diaz", "Direccion": "Camino Real 404", "NumMovil": 161718192 },
+    { "IDPropietario": 8, "Nombre": "Sofia", "Apellido": "Jimenez", "Direccion": "Calle Luna 505", "NumMovil": 202122232 },
+    { "IDPropietario": 9, "Nombre": "Fernando", "Apellido": "Ortiz", "Direccion": "Avenida de la Paz 606", "NumMovil": 242526272 },
+    { "IDPropietario": 10, "Nombre": "Lucia", "Apellido": "Ruiz", "Direccion": "Calle del Amor 707", "NumMovil": 282930313 }
+  ]
+}
