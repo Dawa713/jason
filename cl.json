@@ -1,14 +1,72 @@
-{
-  "coches": [
-    { "IDPropietario": 1, "Marca": "Toyota", "Modelo": "Corolla", "AñoFabricacion": 2010 },
-    { "IDPropietario": 2, "Marca": "Honda", "Modelo": "Civic", "AñoFabricacion": 2015 },
-    { "IDPropietario": 3, "Marca": "Ford", "Modelo": "Focus", "AñoFabricacion": 2018 },
-    { "IDPropietario": 4, "Marca": "Chevrolet", "Modelo": "Malibu", "AñoFabricacion": 2012 },
-    { "IDPropietario": 5, "Marca": "Nissan", "Modelo": "Altima", "AñoFabricacion": 2016 },
-    { "IDPropietario": 6, "Marca": "BMW", "Modelo": "X5", "AñoFabricacion": 2019 },
-    { "IDPropietario": 7, "Marca": "Audi", "Modelo": "A4", "AñoFabricacion": 2017 },
-    { "IDPropietario": 8, "Marca": "Mercedes-Benz", "Modelo": "C-Class", "AñoFabricacion": 2014 },
-    { "IDPropietario": 9, "Marca": "Hyundai", "Modelo": "Elantra", "AñoFabricacion": 2013 },
-    { "IDPropietario": 10, "Marca": "Kia", "Modelo": "Optima", "AñoFabricacion": 2020 }
-  ]
-}
+[
+    {
+        "id": 1,
+        "marca": "Suzuki",
+        "modelo": "Swift (2024)",
+        "detalles": "Compacto, eficiente y deportivo.",
+        "imgSrc": "suzuki-swift-3243040.webp"
+    },
+    {
+        "id": 2,
+        "marca": "Renault",
+        "modelo": "Rafale PHEV (2024)",
+        "detalles": "SUV híbrido enchufable con autonomía eléctrica.",
+        "imgSrc": "renault-rafale-phev-4x4-2024-toma-recarga.372351.jpg"
+    },
+    {
+        "id": 3,
+        "marca": "Toyota",
+        "modelo": "Corolla (2024)",
+        "detalles": "Sedán confiable y económico.",
+        "imgSrc": "6374e887-d065-4ad4-827f-f59fd25db266_LHD+Toyota+Corolla+exterior-2 (1).avif"
+    },
+    {
+        "id": 4,
+        "marca": "Honda",
+        "modelo": "Civic (2024)",
+        "detalles": "Diseño moderno y tecnología avanzada.",
+        "imgSrc": "images.jpeg"
+    },
+    {
+        "id": 5,
+        "marca": "Ford",
+        "modelo": "Mustang (2024)",
+        "detalles": "Deportivo clásico con motor potente.",
+        "imgSrc": "ford-mustang-2023-lateral-frontal.362721.jpg"
+    },
+    {
+        "id": 6,
+        "marca": "Chevrolet",
+        "modelo": "Camaro (2024)",
+        "detalles": "Deportivo con diseño agresivo.",
+        "imgSrc": "chevrolet-camaro-vista-delantera-lateral-549874.jpg"
+    },
+    {
+        "id": 7,
+        "marca": "BMW",
+        "modelo": "Serie 3 (2024)",
+        "detalles": "Lujo y rendimiento en un sedán.",
+        "imgSrc": "img/bmw-serie3-2024.jpg"
+    },
+    {
+        "id": 8,
+        "marca": "Audi",
+        "modelo": "A4 (2024)",
+        "detalles": "Elegante y tecnológicamente avanzado.",
+        "imgSrc": "img/audi-a4-2024.jpg"
+    },
+    {
+        "id": 9,
+        "marca": "Mercedes-Benz",
+        "modelo": "Clase C (2024)",
+        "detalles": "Lujoso y cómodo.",
+        "imgSrc": "img/mercedes-clasec-2024.jpg"
+    },
+    {
+        "id": 10,
+        "marca": "Volkswagen",
+        "modelo": "Golf (2024)",
+        "detalles": "Compacto y versátil.",
+        "imgSrc": "img/volkswagen-golf-2024.jpg"
+    }
+]
